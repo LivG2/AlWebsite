@@ -377,3 +377,9 @@ a:hover {
     font-weight: bold;
     text-decoration: underline;
 }
+
+#music {
+    visibility: hidden;
+    height: 0;
+    width: 0;
+}
